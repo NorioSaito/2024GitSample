@@ -1,2 +1,3 @@
 feature/add_sample2 で新しく作ったファイルです。
 sample2.txt を変更しました。
+feature/add_sample3 で追記しました。
