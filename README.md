@@ -78,3 +78,6 @@
     - squash and merge でリリースブランチへマージする
 - release ブランチの変更を develop へ squash and merge でマージする
 - release ブランチの変更を master へ squash and merge でマージする
+
+## コミット履歴を確認する
+![git_glaph](https://github.com/NorioSaito/2024GitSample/assets/40734467/de8a06e4-5365-411c-8f3f-aa93ed630d68)
