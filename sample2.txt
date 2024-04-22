@@ -1,0 +1,1 @@
+feature/add_sample2 で新しく作ったファイルです。
